@@ -1,0 +1,16 @@
+{
+  "name": "lecture_05_lets_get_hooked",
+  "version": "1.0.0",
+  "description": "/*\r Header\r -logo\r -Nav items\r Body\r -search\r -Reasurant conatnier\r -Img\r Footer\r -copyright\r -Links\r -adress\r -Contact\r */",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "keywords": []
+}
